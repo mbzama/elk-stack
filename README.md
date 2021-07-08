@@ -15,4 +15,5 @@
 	curl -X GET "localhost:9200/_cat/nodes?v&pretty"
 
 ### Login to Kibana
-
+	http://localhost:5601/
+	
